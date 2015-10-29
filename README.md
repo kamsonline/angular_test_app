@@ -34,8 +34,8 @@ Frontend
 No changes planned for backend
 
 Frontend
-Angular 2
-and tools which may be appropriate
+- Angular 2
+- and any tools which we pick along the way
 
 ### Building this application
 
