@@ -18,16 +18,16 @@ I might backtrack and take different approaches during this process to understan
 ### Initial application stack
 
 Backend
--Java 8 
--Spring / Spring boot
--Maven
+- Java 8 
+- Spring / Spring boot
+- Maven
 
 Frontend
--Angular 1.4.* 
--JQuery 2.1.4
--gulp
--bower
--node
+- Angular 1.4.* 
+- JQuery 2.1.4
+- gulp
+- bower
+- node
 
 ### Target application stack
 
