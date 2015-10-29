@@ -4,7 +4,7 @@ This application was initially generated from JHipster which I am planning to up
 
 #### What is that I am trying to achieve?
 
- - AngularJS Application stack suitable for large scale application and it is scalable
+ - AngularJS application stack suitable for large scale application and it is scalable
  - Modular and flat package structure as much as possible
  - Use of Webpack / JSPM
  - Achieve lazy loading
@@ -13,9 +13,9 @@ This application was initially generated from JHipster which I am planning to up
 I might backtrack and take different approaches during this process to understand better and identify suitable path to reach the above outcomes.
 
 #### Progress branches & Wiki links
- Watch this space for branches and wiki's created as part of the exploratory process.
+ Watch this space for branches and wiki's created as part of this exploratory process.
 
-### Initial Application stack
+### Initial application stack
 
 Backend
 Java 8 
@@ -29,7 +29,7 @@ gulp
 bower
 node
 
-### Target Application stack
+### Target application stack
 
 No changes planned for backend
 
