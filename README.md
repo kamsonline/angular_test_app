@@ -1,8 +1,18 @@
-# What is this application for?
+## What is this application for?
 
 This application was initially generated from JHipster which I am planning to update it to follow some of the best practices which I have learnt and will be learning in the near future. The plan is to use this application as a practice application for me to upgrade to angular 2 and possibly get some feedback from others on the way.
 
-# Initial Application stack
+### What is that I am trying to achieve?
+
+ - AngularJS Application stack suitable for large scale application and it is scalable
+ - Modular and flat package structure as much as possible
+ - Use of Webpack / JSPM
+ - Achieve lazy loading
+ - Finally upgrade to Angular 2
+ 
+I might backtrack and take different approaches during this process to understand better and identify suitable path to reach the above outcomes.
+
+## Initial Application stack
 
 Backend
 Java 8 
@@ -16,7 +26,7 @@ gulp
 bower
 node
 
-# Target Application stack
+## Target Application stack
 
 No changes planned for backend
 
@@ -24,7 +34,7 @@ Frontend
 Angular 2
 and tools which may be appropriate
 
-# Building this application
+## Building this application
 
 Before we can build this project, we must install and configure the following dependencies:
 1. Java 8
@@ -44,7 +54,7 @@ auto-refreshes when files change on your hard drive.
     mvn
     gulp
 
-# Building for production
+## Building for production
 
 To optimize the client for production, run:
 
@@ -59,7 +69,7 @@ To ensure everything worked, run:
 
 Then navigate to [http://localhost:8080](http://localhost:8080) in your browser.
 
-# Testing
+## Testing
 
 Unit tests are run by [Karma][] and written with [Jasmine][]. They're located in `src/test/javascript` and can be run with:
 
