@@ -1,12 +1,12 @@
 ### What is this application for?
 
-This application was initially generated from JHipster which I am planning to update it to follow some of the best practices which I have learnt and will be learning in the near future. The plan is to use this application as a practice application for me to upgrade to angular 2 and possibly get some feedback from others on the way.
+This application was initially generated from JHipster which I am planning to update and rewrite the entire front end to follow some of the best practices which I have learnt and will be learning in the near future. The plan is to use this application as a practice application for me to upgrade to angular 2 and possibly get some feedback from others on the way.
 
 #### What is that I am trying to achieve?
 
  - AngularJS application stack suitable for large scale application and it is scalable
  - Modular and flat package structure as much as possible
- - Use of Webpack / JSPM
+ - Re write the front end using webpack, ES6
  - Achieve lazy loading
  - Finally upgrade to Angular 2
  
@@ -24,10 +24,9 @@ Backend
 
 Frontend
 - Angular 1.4.* 
-- JQuery 2.1.4
+- ES6
+- Webpack
 - gulp
-- bower
-- node
 
 ### Target application stack
 
@@ -39,7 +38,7 @@ Frontend
 
 ### Building this application
 
-Before we can build this project, we must install and configure the following dependencies:
+Inorder to build his project, we must install and configure the following dependencies:
 1. Java 8
 2. Maven 3.x
 
