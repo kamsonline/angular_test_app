@@ -24,8 +24,6 @@ Backend
 
 Frontend
 - Angular 1.4.* 
-- ES6
-- Webpack
 - gulp
 
 ### Target application stack
@@ -34,7 +32,9 @@ No changes planned for backend
 
 Frontend
 - Angular 2
-- and any tools which we pick along the way
+- ES6
+- Webpack
+- and any tools which gets picked up along the way
 
 ### Building this application
 
